@@ -1,6 +1,21 @@
-### Hi there I'm Dominik 👋
+# About Me:
+🔭 Mainly Android developer but with experience in backend with NestJs and Flutter<br>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=dominikdoric&show_icons=true&theme=radical" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominikdoric&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
-<img align="left" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img align="left" alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+<!-- END YOUTUBE-CARDS -->
+# 💻 Tech Stack:
+![Android](https://img.shields.io/badge/Android-008000?style=for-the-badge&logo=android&logoColor=white)
+![NestJs](https://img.shields.io/badge/NestJs-8A2BE2?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/Kotlin-CC0066?style=for-the-badge&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dominikdoric&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dominikdoric&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dominikdoric&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dominikdoric&theme=discord&no-frame=false&no-bg=true&margin-w=4)
