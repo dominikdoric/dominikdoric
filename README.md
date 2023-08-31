@@ -1,5 +1,5 @@
 # About Me:
-🔭 Mainly Android developer but with experience in backend with NestJs and Flutter<br>
+🔭 Mainly Android developer but with experience in backend with NestJs and Flutter.<br>
 
 <!-- END YOUTUBE-CARDS -->
 # 💻 Tech Stack:
@@ -13,4 +13,4 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
 
 # Most used languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dominikdoric&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dominikdoric&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
