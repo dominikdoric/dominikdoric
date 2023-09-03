@@ -13,6 +13,8 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-FFD700?style=for-the-badge&logo=firebase&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-245ebd?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-1a8db8?style=for-the-badge&logo=docker&logoColor=white)
 
 # Most used languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dominikdoric&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
