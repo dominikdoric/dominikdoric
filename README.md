@@ -17,4 +17,4 @@
 ![Docker](https://img.shields.io/badge/docker-1a8db8?style=for-the-badge&logo=docker&logoColor=white)
 
 # Most used languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dominikdoric&theme=nord&hide_border=true&include_all_commits=true&langs_count=14&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dominikdoric&theme=nord&hide_border=true&include_all_commits=true&langs_count=14&count_private=false&layout=compact)
