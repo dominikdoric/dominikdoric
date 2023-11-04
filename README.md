@@ -1,5 +1,5 @@
 # About Me:
-🔭 Mainly Android developer but with experience in backend with NestJs and Flutter.<br>
+🔭 Mainly Android developer but with experience in backend with NestJs.<br>
 
 <!-- END YOUTUBE-CARDS -->
 # 💻 Tech Stack:
