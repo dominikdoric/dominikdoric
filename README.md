@@ -1,5 +1,5 @@
 # About Me:
-🔭 Mainly Android developer but with experience in backend with NestJs.<br>
+🔭 Kotlin Multiplatform developer with experience in Spring Boot.<br>
 
 <!-- END YOUTUBE-CARDS -->
 # 💻 Tech Stack:
