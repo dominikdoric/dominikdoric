@@ -1,5 +1,5 @@
 # About Me:
-🔭 Software Engineer focused on building full stack mobile applications with Spring Boot on server side and Kotlin Mutliplatform on client side. Apart from experience with Spring Boot on server side also worked on a project with Ktor backend. Besides these technologies I have also experience with AWS, Google Cloud, various databases such as Postgres, MySQL etc. Right now focusing on improving my DevOps skills by integrating CI/CD pipelines into my application.<br>
+🔭 Software Engineer focused on building full stack mobile applications with Spring Boot on server side and Kotlin Mutliplatform on client side. Besides these technologies I have also experience with AWS, Google Cloud, various databases such as Postgres, MySQL etc. Right now focusing on improving my DevOps skills by integrating CI/CD pipelines into my application.<br>
 
 <!-- END YOUTUBE-CARDS -->
 # 💻 Tech Stack:
